@@ -1,0 +1,10 @@
+.navBar {
+    background-color: black;
+    height: 20px;
+    padding:15px;
+}
+nav ul {
+    display: flex;
+    justify-content: space-between;
+  
+  }
